@@ -9,7 +9,7 @@ const char* ssid     = "network";
 const char* password = "password";
 
 // Enter Google Script Deployment ID:
-const char *GScriptId = "AKfycpwCtWuN3BNIO5CR9BtZJAMaRNUgusldcAz6V7rtGCg1L5srZ5iAEZumVeb-1ea5Y6mg3Q";
+const char *GScriptId = "";
 
 // Enter command (insert_row or append_row) and your Google Sheets sheet name (default is Sheet1):
 String payload_base =  "{\"command\": \"insert_row\", \"sheet_name\": \"Sheet1\", \"values\": ";
