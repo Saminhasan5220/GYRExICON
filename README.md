@@ -21,14 +21,7 @@
    
 3. Get the Spreadsheet ID from the URL.
 
-    
-
-      Then the Spreadsheet ID is:
    
-         1sqp9hIM5VvDGEf8i9H-W1Z72lm0O5-ZxC16sMMS-cgo
-      
-      
-
 
 4. From the Google Sheets menu, go to `Tools > Script Editor`
    
